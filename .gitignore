@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.onnx
+*.engine
+.DS_Store
